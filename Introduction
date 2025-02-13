@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catherine Aye Mon</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background: #8B0000; color: white; padding: 20px; text-align: center; }
+        .container { padding: 20px; text-align: center; }
+        .gallery img { width: 300px; margin: 10px; border-radius: 10px; }
+        .contact { background: #f4f4f4; padding: 20px; text-align: center; }
+        footer { background: #333; color: white; text-align: center; padding: 10px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Catherine Aye Mon</h1>
+        <p>Traditional & Modern Dresses for Myanmar Customers Worldwide</p>
+    </header>
+    
+    <div class="container">
+        <h2>Our Collection</h2>
+        <div class="gallery">
+            <img src="https://drive.google.com/" alt="Traditional Dress">
+            <img src="dress2.jpg" alt="Modern Dress">
+            <img src="dress3.jpg" alt="Custom Design">
+        </div>
+    </div>
+    
+    <div class="contact">
+        <h2>Contact Us</h2>
+        <p>Email: contact@gabrielsdesigns.com</p>
+        <p>Instagram: @gabrieldresses</p>
+    </div>
+    
+    <footer>
+        <p>&copy; 2025 Gabriel's Dress Designs. All rights reserved.</p>
+    </footer>
+</body>
+</html>
